@@ -1,3 +1,3 @@
-Olá, Sou Henrique Douglas👋
+Olá, eu sou Henrique Douglas👋
 
 - 🌱 Estudante de Desenvolvimento Web
